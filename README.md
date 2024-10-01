@@ -1,6 +1,6 @@
 # Module-10-Challenge
 
-# Employee Management System
+# Employee Tracker
 
 ## Description
 
@@ -15,13 +15,9 @@ This Employee Management System is a command-line interface (CLI) tool designed 
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Code_Samples](#Code_Samples)
-- [Credits](#credits)
-- [License](#license)
-- [Badges](#badges)
-- [Features](#features)
-- [How to Contribute](#how-to-contribute)
-- [Tests](#tests)
+- [Code_Samples](#code_samples)
+- [GitHub](#github)
+- [Video](#video)
 
 
 ## Installation
@@ -383,5 +379,8 @@ git push origin feature/your-feature-name
 5. Open a pull request.
 
 
-## [GitHub Repository](#installation)
-- [Usage](#usage)
+## GitHub
+- [GitHub Repository](#https://github.com/Moosorkh/Module-10-Challenge.git)
+
+## Video
+-  [Walkthrough Video](#https://drive.google.com/file/d/1J-LWXt5jpC78d3yEiUVjXQOtFlWO9llT/preview)
